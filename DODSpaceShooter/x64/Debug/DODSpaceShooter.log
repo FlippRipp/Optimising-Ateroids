@@ -1,0 +1,8 @@
+﻿  Game.cpp
+D:\Programming\repos\DODSpaceShooter\DODSpaceShooter\FloatVector2.h(37,5): warning C4552: '+': result of expression not used
+D:\Programming\repos\DODSpaceShooter\DODSpaceShooter\FloatVector2.h(38,5): warning C4552: '+': result of expression not used
+D:\Programming\repos\DODSpaceShooter\DODSpaceShooter\FloatVector2.h(59,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming\repos\DODSpaceShooter\DODSpaceShooter\FloatVector2.h(59,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming\repos\DODSpaceShooter\DODSpaceShooter\Game.cpp(60,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming\repos\DODSpaceShooter\DODSpaceShooter\Game.cpp(61,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  DODSpaceShooter.vcxproj -> D:\Programming\repos\DODSpaceShooter\x64\Debug\DODSpaceShooter.exe
